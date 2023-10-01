@@ -2,7 +2,7 @@
   <h1> Hi, I'm Tracy/ Xue Feng, a Data Analyst at the World Bank Group with 8 years of programing experience.</h1>
 <br>
 
-<p align="center"> <a href="https://xuetracyf.github.io"><img alt="github" src ="https://img.shields.io/badge/Go%20to%20my%20GitHub-%2307405e.svg?style=flat&logo=github&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://github.com/xuetracyf"><img alt="github" src ="https://img.shields.io/badge/Go%20to%20my%20GitHub-%2307405e.svg?style=flat&logo=github&logoColor=white"/></a> </p>
 
 ## My Skills
 
