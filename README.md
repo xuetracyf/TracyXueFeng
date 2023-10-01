@@ -2,6 +2,8 @@
   <h1> Hi, I'm Tracy/ Xue Feng, a Data Analyst at the World Bank Group with 8 years of programing experience.</h1>
 <br>
 
+<p align="center"> <a href="github.com/xuetracyf"><img alt="github" src ="https://img.shields.io/badge/Go%20to%20my%20GitHub-%2307405e.svg?style=flat&logo=github&logoColor=white"/></a> </p>
+
 ## My Skills
 
 ### Programming Languages
@@ -28,9 +30,6 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
-
-
-
 </p>
 
 ### Frontend Development
