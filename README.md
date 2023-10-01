@@ -79,7 +79,7 @@
 
  ### Software & Tools
  
-<p>
+<p align="left">
 
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
