@@ -13,7 +13,7 @@
   </a>
   &emsp;
   <a href="https://www.r-project.org/" target="_blank"> 
-    <img alt="C" src=" https://img.shields.io/badge/R%20-8A2BE2.svg?logo=R&logoColor=white">
+    <img alt="R" src=" https://img.shields.io/badge/R%20-8A2BE2.svg?logo=R&logoColor=white">
   </a> 
   &emsp;
     <a href="https://www.java.com" target="_blank"> 
